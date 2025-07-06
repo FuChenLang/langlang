@@ -1,0 +1,32 @@
+swim
+jump
+run
+walk
+ride a bike
+play soccer
+piay the piano
+read
+pea
+carrot
+potato
+burger
+orange juice
+tea
+milk
+water
+arm
+leg
+head
+hand
+eye
+ear
+nose
+mouth
+cat
+bird
+dog
+frog
+big
+small
+bad
+good
